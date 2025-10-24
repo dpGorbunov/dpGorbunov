@@ -21,8 +21,6 @@ Transitioned from Data Analysis to Data Science, shipping ML solutions to produc
 
 ### GitHub Stats
 
-![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpGorbunov&show_icons=true&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpGorbunov&layout=compact)
 
 ### Let's Connect
