@@ -13,16 +13,6 @@ Transitioned from Data Analysis to Data Science, building and deploying ML solut
 **ML & Data:** scikit-learn, PySpark, PostgreSQL, Greenplum, Hadoop  
 **LLM:** OpenAI, LangChain, LangGraph, embeddings, RAG, multi-agent systems, GigaChat
 
-### Notable Projects
-
-**vibe-trace/customer-support** - Multi-agent telemetry platform. 3rd place at AI Product Hack.
-
-**mvp_baby_flow** - AI Telegram bot for baby development tracking. Passion project.
-
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpGorbunov&layout=compact&cache_seconds=86400)
-
 ### Let's Connect
 
 Telegram: [@grbn_dima](https://t.me/grbn_dima)  
