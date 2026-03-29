@@ -1,6 +1,6 @@
 ## Dmitriy Gorbunov
 
-**ML Engineer** @ Sber | B2B Digital Twin
+**ML Engineer** @ Sber
 **MSc** AI Talent Hub @ ITMO University '27
 
 Building LLM-powered multi-agent systems for enterprise B2B. Personalizing user experience through AI agents, RAG pipelines and orchestration platforms.
