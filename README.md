@@ -5,7 +5,7 @@
 
 Building LLM-powered multi-agent systems for enterprise B2B. Personalizing user experience through AI agents, RAG pipelines and orchestration platforms.
 
-Background in marketing and data analysis, now focused on ML engineering and AI systems for production.
+Background in data analysis, now focused on ML engineering and AI systems for production.
 
 ---
 
