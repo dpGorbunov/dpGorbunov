@@ -1,11 +1,11 @@
 ## Dmitriy Gorbunov
 
-**ML Engineer** @ Sber<br>
+**Tech Lead, AI Engineer** @ Domclick (Sber)<br>
 **MSc** AI Talent Hub @ ITMO University '27
 
-Building LLM-powered multi-agent systems for enterprise B2B. Personalizing user experience through AI agents, RAG pipelines and orchestration platforms.
+I lead development of an AI mortgage consultant agent in the SberBank Online chat. Working with LLMs since 2024: agents, RAG, answer quality evaluation, inference cost reduction. Before that, 4 years in data analytics in fintech and telecom.
 
-Background in data analysis, now focused on ML engineering and AI systems for production.
+Research at ITMO and DeepPavlov: an open arena and environment for an agent that designs printed circuit boards with a verifiable reward from KiCad checks.
 
 ---
 
