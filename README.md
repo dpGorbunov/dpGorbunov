@@ -4,7 +4,7 @@
 **Researcher** @ DeepPavlov<br>
 **MSc** AI Talent Hub @ ITMO University '27
 
-I build LLM agents and multi-agent systems.
+I build LLM agents and multi-agent systems. Research on LLM agents at DeepPavlov.
 
 ---
 
