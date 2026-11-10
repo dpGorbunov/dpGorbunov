@@ -6,8 +6,6 @@
 
 I build LLM agents and multi-agent systems.
 
-Research at ITMO and DeepPavlov: an open arena and environment for an agent that designs printed circuit boards with a verifiable reward from KiCad checks.
-
 ---
 
 ### Tech Stack
